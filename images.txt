@@ -1,6 +1,2 @@
-mysql:5.7.37
-redis:7.0.8
-bitnami/zookeeper:3.8.0
-bitnami/kafka:3.1.0
-nacos/nacos-server:v2.0.4
-elasticsearch:7.17.2
+bitnami/mysql:8.0.31
+bitnami/minio:2022.12.12
