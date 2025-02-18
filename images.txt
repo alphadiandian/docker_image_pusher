@@ -1,1 +1,1 @@
-nginx:1.23.3
+joeanamier/xhs-downloader
